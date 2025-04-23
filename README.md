@@ -11,11 +11,11 @@ This tool is especially useful for:
 
 ## 📌 Features
 
-- ✅ Async implementation using `aiohttp` for high performance
-- ✅ Handles pagination to fetch all repositories
-- ✅ Creates a new branch from a specified source branch
-- ✅ Logs all repository names to a text file
-- ✅ Handles errors and branch conflicts gracefully
+- ✅ Async implementation using `aiohttp` for high performance  
+- ✅ Handles pagination to fetch all repositories  
+- ✅ Creates a new branch from a specified source branch  
+- ✅ Logs all repository names to a text file  
+- ✅ Handles errors and branch conflicts gracefully  
 
 ---
 
@@ -25,10 +25,3 @@ Install dependencies with:
 
 ```bash
 pip install aiohttp aiofiles
-
----
-
-## 🚀 Run the script by
-
-python bitbucket_create_branch_from_existing.py
-
