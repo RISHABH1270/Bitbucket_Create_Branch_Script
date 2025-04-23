@@ -25,3 +25,10 @@ Install dependencies with:
 
 ```bash
 pip install aiohttp aiofiles
+
+---
+
+## 🚀 Run the script by
+
+python bitbucket_create_branch_from_existing.py
+
