@@ -15,8 +15,7 @@ Requirements:
 
 Note: Be sure to replace configuration values with your own before running.
 
-Author: [Your Name]
-License: MIT
+Author: RISHABH SINGH
 """
 
 import asyncio
